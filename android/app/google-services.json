@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896737755901",
+    "project_id": "craft-my-plate-96220",
+    "storage_bucket": "craft-my-plate-96220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896737755901:android:12bd42f1357a2b1a9d7494",
+        "android_client_info": {
+          "package_name": "com.example.craft_my_plate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8dedgLnxOLQEE3Nes9w2FSZevni2ATc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
